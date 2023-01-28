@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pizza-Ad/static/css/main.a832d111.css",
-    "main.js": "/pizza-Ad/static/js/main.c18cf441.js",
-    "static/js/787.28cb0dcd.chunk.js": "/pizza-Ad/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/pizza-Ad/index.html",
-    "main.a832d111.css.map": "/pizza-Ad/static/css/main.a832d111.css.map",
-    "main.c18cf441.js.map": "/pizza-Ad/static/js/main.c18cf441.js.map",
-    "787.28cb0dcd.chunk.js.map": "/pizza-Ad/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/react-Ad/static/css/main.a832d111.css",
+    "main.js": "/react-Ad/static/js/main.3e69dce8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-Ad/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react-Ad/index.html",
+    "main.a832d111.css.map": "/react-Ad/static/css/main.a832d111.css.map",
+    "main.3e69dce8.js.map": "/react-Ad/static/js/main.3e69dce8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-Ad/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a832d111.css",
-    "static/js/main.c18cf441.js"
+    "static/js/main.3e69dce8.js"
   ]
 }
